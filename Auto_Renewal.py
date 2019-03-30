@@ -6,6 +6,7 @@ import numpy as np
 import datetime
 import time
 import glob
+import glob
 os.chdir(r'C:\Users\esaugph\Desktop\AutoRenewal')
 date = datetime.datetime.now()
 date1 = date - datetime.timedelta(days = 0)
